@@ -1,0 +1,21 @@
+.car-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+.card-body {
+    text-align: center;
+}
+.link {
+    color: black;
+    text-decoration: none;
+}
